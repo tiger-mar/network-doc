@@ -37,8 +37,8 @@ yum install -y wget firewalld-filesystem net-tools desktop-file-utils groff grap
 ### 7.安装
 ```azure
 这里根据实际情况选择,计算节点上不需要安装openvswitch-ovn-central包
-![img.png](img.png)
 ```
+![](installed.png)
 
 ### 8.启动服务
 ```azure
